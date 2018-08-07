@@ -36,7 +36,17 @@ Working Papers
 
 "The Effect of Economic Anxiety on Racial Attitudes"
 
+## Voting Rights
+"A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
+
+## Immigration
+"A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
+
 ## Urban Segregation
+
+"The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
+
+"The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris
 
 ## Political Communication and Text Analysis
 

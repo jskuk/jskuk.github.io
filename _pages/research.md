@@ -40,6 +40,13 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 
 "Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
 
+<details><summary>Abstract</summary>
+<p>
+<sub><sup>
+This study investigates a microfoundation that links income inequality and political polarization in Congress. To better understand polarization among the public and its relationship with inequality, I estimate voters’ ideology in two dimensions from 1980 to 2012 with a two-dimensional item response theory (IRT) model. The IRT model shows that the degree of polarization in economic policy preferences has not increased since 1980, but polarization on identity politics and identity politics/social issues has increased. The degree of polarization on social issues and the level of inequality are highly correlated as the degree of correlation between polarization among elected officials and inequality. These results suggest that the link between inequality and polarization in Congress is voters’ polarization on social issues, not redistributive preferences.
+</sub></sup>
+ </p>
+</details>
 
 "The Effect of Economic Anxiety on Racial Attitudes"
 

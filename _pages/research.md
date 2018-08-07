@@ -58,6 +58,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 ## Political Communication and Text Analysis
 
 "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
+- Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/?utm_term=.b0a13be7cdcc)
 
 "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
 

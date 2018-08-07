@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="JRQKWlNWVOqGY4H_0-ehgxnhoT-6cG5GwdL0KYIkSNA" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123521501-1"></script>
 <script>

@@ -74,7 +74,7 @@ This study investigates a microfoundation that links income inequality and polit
 ## Political Communication and Text Analysis
 
 "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
-- Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/?utm_term=.b0a13be7cdcc)
+- Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
 
 "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
 

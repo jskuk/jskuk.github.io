@@ -28,7 +28,7 @@ Working Papers
 =======
 
 ## Politics of Economic and Racial Inequality 
-"Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" (Under review)
+"Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
 
 >What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that county level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.
 
@@ -36,3 +36,12 @@ Working Papers
 
 "The Effect of Economic Anxiety on Racial Attitudes"
 
+## Urban Segregation
+
+## Political Communication and Text Analysis
+
+"The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
+
+"Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
+
+"North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee *(Under Review)*

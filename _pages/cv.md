@@ -8,4 +8,15 @@ redirect_from:
 ---
  {% include base_path %}
  
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123521501-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123521501-1');
+</script>
+
+ 
 You can find my [CV here](https://jskuk.github.io/files/Kuk_CV_080118.pdf)

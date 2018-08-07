@@ -31,9 +31,7 @@ Working Papers
 "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
 <details><summary>Abstract</summary>
 <p>
-<sub><sup>
 What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that county level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.
- </sub></sup>
  </p>
 </details>
 
@@ -42,9 +40,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 
 <details><summary>Abstract</summary>
 <p>
-<sub><sup>
 This study investigates a microfoundation that links income inequality and political polarization in Congress. To better understand polarization among the public and its relationship with inequality, I estimate voters’ ideology in two dimensions from 1980 to 2012 with a two-dimensional item response theory (IRT) model. The IRT model shows that the degree of polarization in economic policy preferences has not increased since 1980, but polarization on identity politics and identity politics/social issues has increased. The degree of polarization on social issues and the level of inequality are highly correlated as the degree of correlation between polarization among elected officials and inequality. These results suggest that the link between inequality and polarization in Congress is voters’ polarization on social issues, not redistributive preferences.
-</sub></sup>
  </p>
 </details>
 

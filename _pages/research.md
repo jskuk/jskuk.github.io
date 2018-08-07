@@ -19,3 +19,8 @@ Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter
 **John Kuk**, Deborah Seligsohn, and Jack Jiakun Zhang. “The Effect of Rising Import Competition on Congressional Voting Towards China." *Journal of Contemporary China* 27.109 (2018): 103–119
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
 
+
+Working Papers
+=======
+
+## Politics of Economic and Racial Inequality 

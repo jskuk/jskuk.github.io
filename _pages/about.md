@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123521501-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123521501-1');
+</script>
+
 
 I am a political scientist focused on poverty and inequality, currently working as a Postdoctoral Research Fellow at Washington University in St. Louis. I received my PhD in Political Science from University of California, San Diego in 2017.
 

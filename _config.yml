@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "John Kuk"
 title_separator          : "-"
-name                     : &name "John Kuk"
+name                     : &name "John Seungmin Kuk"
 description              : &description "personal description"
 url                      : https://jskuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

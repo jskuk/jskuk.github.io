@@ -8,4 +8,4 @@ redirect_from:
 ---
  {% include base_path %}
  
-You can find my CV here
+You can find my [CV here](https://jskuk.github.io/files/Kuk_CV_080118.pdf)

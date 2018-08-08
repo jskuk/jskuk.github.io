@@ -21,7 +21,8 @@ redirect_from:
 
 jskuk [at] wustl [dot] edu
 
-**Mailing Address**:
+**Mailing Address**
+========
 1 Brookings Dr,
 
 Mailbox 1112

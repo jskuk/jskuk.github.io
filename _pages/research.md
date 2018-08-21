@@ -57,6 +57,15 @@ This study investigates a microfoundation that links income inequality and polit
 
 "The Effect of Economic Anxiety on Racial Attitudes"
 
+"A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
+
+<details><summary>Abstract</summary>
+<p>
+Do White Americans change their attitudes when immigrants move into their communities? Evidence from public opinion research remains mixed; finding support for both threat and contact effects, and inferring causality from cross-sectional data. Drawing from research on White flight, we instead propose a geographic sorting model: White Americans who are predisposed to dislike immigration are more likely to leave communities with growing immigrant populations and move to places with fewer immigrants. In the long run, Whites with liberal immigration attitudes remain in places with large immigrant populations, while those with more conservative attitudes move away. We offer evidence supporting the sorting model using geocoded panel data from the General Social Survey (2008-2010). The results suggest White Americans’ residential mobility may be a key mechanism linking local immigrant population size and public opinion on immigration
+</p>
+</details>
+
+
 ## Voting Rights
 "A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
 
@@ -68,15 +77,6 @@ Critics of strict photo identification laws claim that they impose a disproporti
 
 
 "The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
-
-## Immigration
-"A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
-
-<details><summary>Abstract</summary>
-<p>
-Do White Americans change their attitudes when immigrants move into their communities? Evidence from public opinion research remains mixed; finding support for both threat and contact effects, and inferring causality from cross-sectional data. Drawing from research on White flight, we instead propose a geographic sorting model: White Americans who are predisposed to dislike immigration are more likely to leave communities with growing immigrant populations and move to places with fewer immigrants. In the long run, Whites with liberal immigration attitudes remain in places with large immigrant populations, while those with more conservative attitudes move away. We offer evidence supporting the sorting model using geocoded panel data from the General Social Survey (2008-2010). The results suggest White Americans’ residential mobility may be a key mechanism linking local immigrant population size and public opinion on immigration
-</p>
-</details>
 
 
 ## Urban Segregation

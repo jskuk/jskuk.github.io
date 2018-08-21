@@ -83,6 +83,30 @@ Do White Americans change their attitudes when immigrants move into their commun
 
 "The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
 
+<details><summary>Abstract</summary>
+<p>
+A growing number of residents in metropolitan America live in rental housing and are
+increasingly searching for housing online. To better understand their housing search and
+selection processes, which contribute to persistent residential segregation, we focus on the
+information environment of the online rental market. We posit that information asymmetries in
+the online rental market correspond with neighborhood racial composition and socioeconomic
+status, and can operate to either magnify or reduce existing segregation by influencing the
+housing searches of prospective renters. We use conventional OLS regression and computational
+text analysis techniques to test the hypothesis that the language in—and thus information
+provided by—online rental housing advertisements varies depending on the racial/ethnic and socioeconomic characteristics of neighborhoods. We find marked, consistent, and significant
+differences in the ways rental units are advertised across neighborhoods in terms of both the
+overall amount of information provided and differences in content. These systematic information
+asymmetries draw attention away from conventional explanations of persistent segregation like
+discrimination and individual preferences. Rather, our results reveal how variance in information
+on available housing, and the language used in advertisements, may contribute to and reflect how
+neighborhoods form reputations as appropriate places for particular racial/ethnic groups. By
+collecting and analyzing a novel data set on the rental market, we also make a methodological
+contribution, revealing the efficacy of data collected online and computational social science
+methods for understanding urban processes.
+</p>
+</details>
+
+
 "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
 
 ## Political Communication and Text Analysis

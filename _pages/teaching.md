@@ -16,6 +16,7 @@ author_profile: true
   gtag('config', 'UA-123521501-1');
 </script>
 
+# Instructor of Record
 
 Growing Up Poor Across America (Spring 2018, Fall 2018)
 ======
@@ -23,8 +24,7 @@ Advanced seminar on poverty in America, with a special focus on exploring releva
 
 [Syllabus](http://jskuk.github.io/files/syllabus_SOC352.pdf)
 
-Teaching Assistant with Discussion/Recitation Sections
-=====
+# Teaching Assistant with Discussion/Recitation Sections
 - Causal Inference (Graudate)    *Spring 2017*
 - Introduction to American Politics    *Fall 2014, Spring 2016*
 - Political Inquiry (undergraduate research design, statistics)  *Fall 2013*

@@ -25,7 +25,7 @@ Advanced seminar on poverty in America, with a special focus on exploring releva
 
 Teaching Assistant with Discussion/Recitation Sections
 =====
-- Causal Inference (Graudate)    Spring 2017
-- Introduction to American Politics
-- Political Inquiry (undergraduate research design, statistics)
-- Introduction to Comparative Politics 
+- Causal Inference (Graudate)    *Spring 2017*
+- Introduction to American Politics    *Fall 2014, Spring 2016*
+- Political Inquiry (undergraduate research design, statistics)  *Fall 2013*
+- Introduction to Comparative Politics  *Winter 2016*

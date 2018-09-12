@@ -76,7 +76,7 @@ Do White Americans change their attitudes when immigrants move into their commun
 
 
 ## Voting Rights
-"A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
+- "A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
 
 <details><summary>Abstract</summary>
 <p>
@@ -85,12 +85,12 @@ Critics of strict photo identification laws claim that they impose a disproporti
 </details>
 
 
-"The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
+- "The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
 
 
 ## Urban Segregation
 
-"The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
+- "The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
 
 <details><summary>Abstract</summary>
 <p>
@@ -116,13 +116,13 @@ methods for understanding urban processes.
 </details>
 
 
-"The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
+- "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
 
 ## Political Communication and Text Analysis
 
-"The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
-- Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
+- "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
+  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
 
-"Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
+- "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
 
-"North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee *(Under Review)*
+- "North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee *(Under Review)*

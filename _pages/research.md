@@ -41,7 +41,7 @@ Working Papers
 ## Politics of Economic and Racial Inequality 
 
 
-"Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
+- "Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
 
 <details><summary>Abstract</summary>
 <p>
@@ -50,7 +50,7 @@ Have voters become polarized as income inequality has risen? To better understan
 </details>
 
 
-"The Effect of Economic Distress on Racial Attitudes"
+- "The Effect of Economic Distress on Racial Attitudes"
 
 <details><summary>Abstract</summary>
 <p>
@@ -58,7 +58,7 @@ The 2016 US presidential election and the rise of populism around the world has 
 </p>
 </details>
 
-"Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
+- "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
 <details><summary>Abstract</summary>
 <p>
 What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that county level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.
@@ -66,7 +66,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 </details>
 
 
-"A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
+- "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
 
 <details><summary>Abstract</summary>
 <p>

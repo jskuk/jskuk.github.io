@@ -52,13 +52,14 @@ Have voters become polarized as income inequality has risen? To better understan
 
 - "The Effect of Economic Distress on Racial Attitudes"
 
-  <details><summary>Abstract</summary>
+<details><summary>Abstract</summary>
 <p>
 The 2016 US presidential election and the rise of populism around the world has engendered a scholarly debate as to whether this rise is due to economic anxiety or cultural threat. While we have growing research favoring the racism argument, fundamental questions remain unanswered. Why has racism become a decisive factor in recent elections? Are there contextual factors that render racism more salient in the contemporary political landscape? In this paper, I explore the impact of economic anxiety on racism and develop a theory to explain how economic anxiety induces an individual’s racism. Individuals whose living standards have stagnated over time and thus fear losing their socioeconomic status are likely to develop stronger in-group solidarity and out-group derogation. Whites counteract economic threats by developing stronger in-group versus out-group identity. I test this theory in two different empirical settings. First, using local Chinese import exposure as an instrument to capture local economic disruption, I measure how an unexpected shock to the local economy engenders a higher level of racial resentment. Second, I run a survey experiment by priming respondents to think about financially stressful situations. Respondents primed with economic anxiety showed a higher level of racial resentment and ethnocentrism.
 </p>
 </details>
 
 - "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
+
   <details><summary>Abstract</summary>
 <p>
 What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that county level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.

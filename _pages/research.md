@@ -52,14 +52,14 @@ Have voters become polarized as income inequality has risen? To better understan
 
 - "The Effect of Economic Distress on Racial Attitudes"
 
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 The 2016 US presidential election and the rise of populism around the world has engendered a scholarly debate as to whether this rise is due to economic anxiety or cultural threat. While we have growing research favoring the racism argument, fundamental questions remain unanswered. Why has racism become a decisive factor in recent elections? Are there contextual factors that render racism more salient in the contemporary political landscape? In this paper, I explore the impact of economic anxiety on racism and develop a theory to explain how economic anxiety induces an individual’s racism. Individuals whose living standards have stagnated over time and thus fear losing their socioeconomic status are likely to develop stronger in-group solidarity and out-group derogation. Whites counteract economic threats by developing stronger in-group versus out-group identity. I test this theory in two different empirical settings. First, using local Chinese import exposure as an instrument to capture local economic disruption, I measure how an unexpected shock to the local economy engenders a higher level of racial resentment. Second, I run a survey experiment by priming respondents to think about financially stressful situations. Respondents primed with economic anxiety showed a higher level of racial resentment and ethnocentrism.
 </p>
 </details>
 
 - "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that county level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.
  </p>
@@ -68,7 +68,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 
 - "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
 
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 Do White Americans change their attitudes when immigrants move into their communities? Evidence from public opinion research remains mixed; finding support for both threat and contact effects, and inferring causality from cross-sectional data. Drawing from research on White flight, we instead propose a geographic sorting model: White Americans who are predisposed to dislike immigration are more likely to leave communities with growing immigrant populations and move to places with fewer immigrants. In the long run, Whites with liberal immigration attitudes remain in places with large immigrant populations, while those with more conservative attitudes move away. We offer evidence supporting the sorting model using geocoded panel data from the General Social Survey (2008-2010). The results suggest White Americans’ residential mobility may be a key mechanism linking local immigrant population size and public opinion on immigration
 </p>
@@ -78,7 +78,7 @@ Do White Americans change their attitudes when immigrants move into their commun
 ## Voting Rights
 - "A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
 
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 Critics of strict photo identification laws claim that they impose a disproportionate burden on minority voters.  Yet, empirical studies assessing the impact of these laws on minority turnout have reached decidedly mixed results. This article offers a more rigorous test that will help advance the empirical literature and contribute to the legal debate in three ways: we focus on recent elections with a broad set of strict photo ID laws in place, rely on official turnout data rather than surveys, and employ a research design that assesses change over time using a difference-in-difference approach to alleviate the inference problems that plague most existing studies. We use aggregate county turnout data from 2012 to 2016 and find that the racial gap in turnout between more diverse and less diverse counties grew more in states enacting new strict photo ID laws than it did elsewhere.  Strict voter ID laws appear to discriminate.   
 </p>
@@ -92,7 +92,7 @@ Critics of strict photo identification laws claim that they impose a disproporti
 
 - "The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
 
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 A growing number of residents in metropolitan America live in rental housing and are
 increasingly searching for housing online. To better understand their housing search and

@@ -39,6 +39,24 @@ Working Papers
 =======
 
 ## Politics of Economic and Racial Inequality 
+
+
+"Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
+
+<details><summary>Abstract</summary>
+<p>
+Have voters become polarized as income inequality has risen? To better understand polarization among the public and its relationship with inequality, I estimate voters’ ideology in two dimensions from 1980 to 2012 with a two-dimensional item response theory (IRT) model. The IRT model shows that the degree of polarization in economic policy preferences has not increased since 1980, but rather that polarization on racial and social issues has increased. The views on racial and social issues are largely driven by racial resentment. The degree of polariza- tion on social issues and on inequality levels are as highly correlated as the degree of correlation between polarization among elected officials and inequality. These results suggest that the link between inequality and polarization in Congress is voters’ polarization on non-economic issues, and not redistributive preferences.
+ </p>
+</details>
+
+<details><summary>Abstract</summary>
+<p>
+"The Effect of Economic Distress on Racial Attitudes"
+
+The 2016 US presidential election and the rise of populism around the world has engendered a scholarly debate as to whether this rise is due to economic anxiety or cultural threat. While we have growing research favoring the racism argument, fundamental questions remain unanswered. Why has racism become a decisive factor in recent elections? Are there contextual factors that render racism more salient in the contemporary political landscape? In this paper, I explore the impact of economic anxiety on racism and develop a theory to explain how economic anxiety induces an individual’s racism. Individuals whose living standards have stagnated over time and thus fear losing their socioeconomic status are likely to develop stronger in-group solidarity and out-group derogation. Whites counteract economic threats by developing stronger in-group versus out-group identity. I test this theory in two different empirical settings. First, using local Chinese import exposure as an instrument to capture local economic disruption, I measure how an unexpected shock to the local economy engenders a higher level of racial resentment. Second, I run a survey experiment by priming respondents to think about financially stressful situations. Respondents primed with economic anxiety showed a higher level of racial resentment and ethnocentrism.
+</p>
+</details>
+
 "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
 <details><summary>Abstract</summary>
 <p>
@@ -46,16 +64,6 @@ What happens to voters’ hearts and minds when the reality of the American Drea
  </p>
 </details>
 
-
-"Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
-
-<details><summary>Abstract</summary>
-<p>
-This study investigates a microfoundation that links income inequality and political polarization in Congress. To better understand polarization among the public and its relationship with inequality, I estimate voters’ ideology in two dimensions from 1980 to 2012 with a two-dimensional item response theory (IRT) model. The IRT model shows that the degree of polarization in economic policy preferences has not increased since 1980, but polarization on identity politics and social issues has increased. The degree of polarization on social issues and the level of inequality are highly correlated as the degree of correlation between polarization among elected officials and inequality. These results suggest that the link between inequality and polarization in Congress is voters’ polarization on social issues, not redistributive preferences.
- </p>
-</details>
-
-"The Effect of Economic Anxiety on Racial Attitudes"
 
 "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
 

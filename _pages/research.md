@@ -43,7 +43,7 @@ Working Papers
 
 - "Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
 
-<details><summary>Abstract</summary>
+  <details><summary>Abstract</summary>
 <p>
 Have voters become polarized as income inequality has risen? To better understand polarization among the public and its relationship with inequality, I estimate voters’ ideology in two dimensions from 1980 to 2012 with a two-dimensional item response theory (IRT) model. The IRT model shows that the degree of polarization in economic policy preferences has not increased since 1980, but rather that polarization on racial and social issues has increased. The views on racial and social issues are largely driven by racial resentment. The degree of polariza- tion on social issues and on inequality levels are as highly correlated as the degree of correlation between polarization among elected officials and inequality. These results suggest that the link between inequality and polarization in Congress is voters’ polarization on non-economic issues, and not redistributive preferences.
  </p>

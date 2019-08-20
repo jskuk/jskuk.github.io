@@ -38,7 +38,7 @@ Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter
 Working Papers
 =======
 
-## Politics of Economic and Racial Inequality 
+## Politics of Inequality 
 
 
 - "Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
@@ -67,13 +67,22 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 </details>
 
 
-- "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter *(Under Review)*
+- "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter 
 
 <details><summary>Abstract</summary>
 <p>
 Do White Americans change their attitudes when immigrants move into their communities? Evidence from public opinion research remains mixed; finding support for both threat and contact effects, and inferring causality from cross-sectional data. Drawing from research on White flight, we instead propose a geographic sorting model: White Americans who are predisposed to dislike immigration are more likely to leave communities with growing immigrant populations and move to places with fewer immigrants. In the long run, Whites with liberal immigration attitudes remain in places with large immigrant populations, while those with more conservative attitudes move away. We offer evidence supporting the sorting model using geocoded panel data from the General Social Survey (2008-2010). The results suggest White Americans’ residential mobility may be a key mechanism linking local immigrant population size and public opinion on immigration
 </p>
 </details>
+
+## Gender Inequality
+- "Parties, State Legislatures, and Gender Inequality" with Zoltan Hajnal invited to **Revise and Resubmit** at *Legislative Studies Quarterly*
+<details><summary>Abstract</summary>
+<p>
+Women earn less than men who work in the same job with the same level of experience.  We know much about this gender wage gap but little about its political or partisan sources.  In this article, we examine the effects of party control of state government on gender inequality in income, wages, unemployment, and poverty. Employing both a regression discontinuity design and a dynamic difference-in-difference analysis, we find that electing a Democratic majority to the state house leads to substantial improvement in women’s incomes, wages, and unemployment relative to men – especially in recent years.  We also show that policy shifts could be driving that process. Democratic control leads to significantly more liberal policies on women’s rights and abortion.  We find, however, fewer clear effects on poverty and less robust results for partisan control of the governor’s office or the state senate. Parties and politics matter, but not always. 
+</p>
+</details>
+
 
 
 ## Voting Rights
@@ -88,42 +97,45 @@ Critics of strict photo identification laws claim that they impose a disproporti
 
 - "The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
 
-
-## Urban Segregation
-
-- "The Language of Segregation: Variation in the Description of Rental Housing Across Neighborhoods" with Ariela Schachter and Max Besbris
-
-<details><summary>Abstract</summary>
-<p>
-A growing number of residents in metropolitan America live in rental housing and are
-increasingly searching for housing online. To better understand their housing search and
-selection processes, which contribute to persistent residential segregation, we focus on the
-information environment of the online rental market. We posit that information asymmetries in
-the online rental market correspond with neighborhood racial composition and socioeconomic
-status, and can operate to either magnify or reduce existing segregation by influencing the
-housing searches of prospective renters. We use conventional OLS regression and computational
-text analysis techniques to test the hypothesis that the language in—and thus information
-provided by—online rental housing advertisements varies depending on the racial/ethnic and socioeconomic characteristics of neighborhoods. We find marked, consistent, and significant
-differences in the ways rental units are advertised across neighborhoods in terms of both the
-overall amount of information provided and differences in content. These systematic information
-asymmetries draw attention away from conventional explanations of persistent segregation like
-discrimination and individual preferences. Rather, our results reveal how variance in information
-on available housing, and the language used in advertisements, may contribute to and reflect how
-neighborhoods form reputations as appropriate places for particular racial/ethnic groups. By
-collecting and analyzing a novel data set on the rental market, we also make a methodological
-contribution, revealing the efficacy of data collected online and computational social science
-methods for understanding urban processes.
-</p>
-</details>
-
-
-- "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
-
-## Political Communication and Text Analysis
+## Trade Shock and Congress
 
 - "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
   - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
 
-- "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi *(Under Review)*
 
-- "North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee *(Under Review)*
+
+## Urban Inequality
+
+- "The Geography of Information: Inequalities in Online Advertisements for Rental Housing" with Ariela Schachter and Max Besbris
+
+<details><summary>Abstract</summary>
+<p>
+More urban residents find their housing through online search tools than any other source and recent research has theorized the potential for online information to transform and equalize the housing search process. Yet little work has examined the quantity and quality of housing information available online. Using a corpus of millions of Craigslist advertisements for rental housing we examine whether housing search websites equalize access to information across neighborhoods. We find that, akin to other off-line information sources, housing websites present segmented and segregated information that tracks with other forms of socio-spatial inequality. Our findings have implications for understanding the structure of the rental housing market as well as the housing search process, and for theorizing how tenants form expectations about neighborhoods and landlords.
+</p>
+</details>
+
+- "Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?" with Geoff Boeing, Max Besbris, and Ariela Schachter invited to **Revise and Resubmit** at *Housing Policy Debate*
+
+<details><summary>Abstract</summary>
+<p>
+Housing scholars stress the importance of the information environment in shaping housing search behavior and outcomes. Rental listings have increasingly moved online over the past two decades and, in turn, online platforms like Craigslist are now central to the search process. Do these technology platforms serve as information equalizers or do they reflect traditional information inequalities that correlate with neighborhood sociodemographic characteristics? We synthesize and extend analyses of millions of US Craigslist rental listings and find they supply significantly different volume, quality, and types of information about different communities. Technology platforms have the potential to broaden, diversify, and equalize housing search information, but they rely on landlord behavior and, in turn, likely will not reach this potential without a significant redesign or policy intervention. Smart cities advocates hoping to build better cities through technology must critically interrogate big data for systematic biases. 
+</p>
+</details>
+
+- "The Effect of Homicide on Local Rents" with Jacob Faber, Ariela Schachter and Max Besbris (work in progress)
+
+<details><summary>Abstract</summary>
+<p>
+The collateral effects of homicide--that is, tolls on individuals and communities experiencing homicides in addition to loss of life—are numerous. While previous work has documented impacts on children and intergenerational mobility, we explore the effects of violent crime on a different economic outcome. Specifically, we use a unique geocoded and timestamped data set of advertisements for rental housing to examine the effect of neighborhood homicides on local rent prices. Using a regression discontinuity approach, we find that homicide decreases the listed price of nearby rental housing. Homicide reverberates throughout communities, affecting various aspects of individual and collective experience. Additionally, since homicides, and crime more generally, are geographically concentrated, understanding their wide-ranging effects helps explain broader, systemic differences across neighborhoods and how individual residents' lives--including their economic conditions--are shaped by their geographic contexts.
+</p>
+</details>
+
+- "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
+
+
+
+## Political Communication and Text Analysis
+
+- "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi 
+
+- "North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee 

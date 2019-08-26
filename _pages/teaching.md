@@ -17,6 +17,11 @@ author_profile: true
 </script>
 
 # Instructor of Record
+Statistics for Sociology (Fall 2019)
+======
+Introduction to descriptive and inferential statistical techniques used in sociological research. Topics addressed include probability distributions, data presentation and visualization, confidence intervals, hypothesis testing, and linear regression. Applications of statistical analysis drawn from sociological research and other social science data sources, such as polling and economic data. Students will use statistical software *R* to complete assignments.
+
+[Syllabus](http://jskuk.github.io/files/syllabus_SOC3050.pdf)
 
 Growing Up Poor Across America (Spring 2018, Fall 2018)
 ======

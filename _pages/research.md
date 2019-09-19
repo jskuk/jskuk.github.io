@@ -97,12 +97,6 @@ Critics of strict photo identification laws claim that they impose a disproporti
 
 - "The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
 
-## Trade Shock and Congress
-
-- "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
-  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
-
-
 
 ## Urban Inequality
 
@@ -131,6 +125,15 @@ The collateral effects of homicide--that is, tolls on individuals and communitie
 </details>
 
 - "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
+
+
+## Trade Shock and Congress
+
+- "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
+  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
+
+
+
 
 
 

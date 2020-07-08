@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-I am a political scientist focused on poverty and inequality, currently working as a Postdoctoral Research Fellow at Washington University in St. Louis. I received my PhD in Political Science from University of California, San Diego in 2017.
+I am a political scientist focused on poverty and inequality, currently working as a Postdoctoral Research Fellow at Washington University in St. Louis. I received my PhD in Political Science from University of California, San Diego in December 2017. Beginning in August 2020, I will be an Assistant Professor at the University of Oklahoma.
 
 I use new computational methods such as automated text analysis to study the political causes and consequences of economic, racial, and gender inequality. My primary research area examines how rising inequality has polarized American voters along the line of social identities. I also study the political causes of racial, gender, and housing inequality. I am broadly interested in American politics, political behavior, politics of inequality, race and ethnicity politics, voting rights, urban segregation, political communication, and computational social science. 
 

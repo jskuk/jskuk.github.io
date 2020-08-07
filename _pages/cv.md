@@ -21,4 +21,4 @@ redirect_from:
  
 
  
-You can find my [CV here](https://jskuk.github.io/files/Kuk_CV_042920.pdf)
+You can find my [CV here](https://jskuk.github.io/files/Kuk_CV_072420.pdf)

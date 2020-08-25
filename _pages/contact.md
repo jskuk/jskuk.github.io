@@ -19,12 +19,12 @@ redirect_from:
 
 {% include base_path %}
 
-jskuk [at] wustl [dot] edu
+jskuk [at] ou [dot] edu
 
 **Mailing Address**
 ========
-1 Brookings Dr,
+455 W. Lindsey St.
 
-Mailbox 1112
+Dale Hall Tower, Room 205 
 
-St. Louis, MO 63130-4899
+Norman, OK 73019

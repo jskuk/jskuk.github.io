@@ -32,8 +32,9 @@ Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
 
+**John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
 
-
+Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. Forthcoming. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
 
 Working Papers
 =======

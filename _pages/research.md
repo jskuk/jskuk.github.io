@@ -34,12 +34,25 @@ Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter
 
 **John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
 
+[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1773280)
+
 Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. Forthcoming. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
+
+[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10511482.2019.1684336)
 
 Working Papers
 =======
 
 ## Politics of Inequality 
+
+
+- "The Effect of Economic Distress on Racial Attitudes"
+
+<details><summary>Abstract</summary>
+<p>
+Scholars have long considered racial attitudes as an independent factor from economic experiences. In this paper, I question this premise. I explore the impact of economic anxiety on racial attitudes and develop a theory to explain how economic anxiety activates an individual’s racial resentment. Individuals whose living standards have stagnated over time and thus fear losing their socioeconomic status are likely to develop stronger in-group solidarity and out- group derogation. Individuals counteract economic threats by developing stronger in-group versus out-group identity. I test this theory in two different empirical settings. First, using local Chinese import exposure as an instrument to capture local economic disruption, I measure how an unexpected shock to the local economy engenders a higher level of racial resentment. Second, I run a survey experiment by priming respondents to think about financially stressful situations. Respondents primed with economic anxiety showed a higher level of racial resentment and ethnocentrism.
+</p>
+</details>
 
 
 - "Inequality and Public Polarization: Have Voters Become Polarized as Income Inequality Rises?"
@@ -51,13 +64,6 @@ Have voters become polarized as income inequality has risen? To better understan
   </details>
 
 
-- "The Effect of Economic Distress on Racial Attitudes"
-
-<details><summary>Abstract</summary>
-<p>
-Scholars have long considered racial attitudes as an independent factor from economic experiences. In this paper, I question this premise. I explore the impact of economic anxiety on racial attitudes and develop a theory to explain how economic anxiety activates an individual’s racial resentment. Individuals whose living standards have stagnated over time and thus fear losing their socioeconomic status are likely to develop stronger in-group solidarity and out- group derogation. Individuals counteract economic threats by developing stronger in-group versus out-group identity. I test this theory in two different empirical settings. First, using local Chinese import exposure as an instrument to capture local economic disruption, I measure how an unexpected shock to the local economy engenders a higher level of racial resentment. Second, I run a survey experiment by priming respondents to think about financially stressful situations. Respondents primed with economic anxiety showed a higher level of racial resentment and ethnocentrism.
-</p>
-</details>
 
 - "Red American Dream, Blue American Dream: The Geography of Intergenerational Mobility and Voting Behavior" *(Under review)*
 
@@ -67,14 +73,6 @@ What happens to voters’ hearts and minds when the reality of the American Drea
  </p>
 </details>
 
-
-- "A Change of Heart or Change of Address? The Geographic Sorting of Whites’ Attitudes towards Immigration" with Ariela Schachter 
-
-<details><summary>Abstract</summary>
-<p>
-Do White Americans change their attitudes when immigrants move into their communities? Evidence from public opinion research remains mixed; finding support for both threat and contact effects, and inferring causality from cross-sectional data. Drawing from research on White flight, we instead propose a geographic sorting model: White Americans who are predisposed to dislike immigration are more likely to leave communities with growing immigrant populations and move to places with fewer immigrants. In the long run, Whites with liberal immigration attitudes remain in places with large immigrant populations, while those with more conservative attitudes move away. We offer evidence supporting the sorting model using geocoded panel data from the General Social Survey (2008-2010). The results suggest White Americans’ residential mobility may be a key mechanism linking local immigrant population size and public opinion on immigration
-</p>
-</details>
 
 ## Gender Inequality
 - "Parties, State Legislatures, and Gender Inequality" with Zoltan Hajnal invited to **Revise and Resubmit** at *Legislative Studies Quarterly*
@@ -109,7 +107,7 @@ More urban residents find their housing through online search tools than any oth
 </p>
 </details>
 
-- "Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?" with Geoff Boeing, Max Besbris, and Ariela Schachter invited to **Revise and Resubmit** at *Housing Policy Debate*
+- "Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?" with Geoff Boeing, Max Besbris, and Ariela Schachter at *Housing Policy Debate*
 
 <details><summary>Abstract</summary>
 <p>

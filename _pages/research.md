@@ -40,6 +40,10 @@ Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. Forthcoming. “H
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10511482.2019.1684336)
 
+
+**John Kuk** and Zoltan Hajnal, "Parties, State Legislatures, and Gender Inequality" **Accepted** at *Legislative Studies Quarterly*
+
+
 Working Papers
 =======
 
@@ -75,7 +79,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 
 
 ## Gender Inequality
-- "Parties, State Legislatures, and Gender Inequality" with Zoltan Hajnal invited to **Revise and Resubmit** at *Legislative Studies Quarterly*
+- "Parties, State Legislatures, and Gender Inequality" with Zoltan Hajnal **Accepted** at *Legislative Studies Quarterly*
 <details><summary>Abstract</summary>
 <p>
 Women earn less than men who work in the same job with the same level of experience.  We know much about this gender wage gap but little about its political or partisan sources.  In this article, we examine the effects of party control of state government on gender inequality in income, wages, unemployment, and poverty. Employing both a regression discontinuity design and a dynamic difference-in-difference analysis, we find that electing a Democratic majority to the state house leads to substantial improvement in women’s incomes, wages, and unemployment relative to men – especially in recent years.  We also show that policy shifts could be driving that process. Democratic control leads to significantly more liberal policies on women’s rights and abortion.  We find, however, fewer clear effects on poverty and less robust results for partisan control of the governor’s office or the state senate. Parties and politics matter, but not always. 

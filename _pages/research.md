@@ -41,8 +41,9 @@ Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. Forthcoming. “H
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10511482.2019.1684336)
 
 
-**John Kuk** and Zoltan Hajnal, "Parties, State Legislatures, and Gender Inequality" **Accepted** at *Legislative Studies Quarterly*
+**John Kuk** and Zoltan Hajnal, ["Parties, State Legislatures, and Gender Inequality" **Accepted** at *Legislative Studies Quarterly*](https://jskuk.github.io/files/Democratic Party Control Reduces Gender Inequality.pdf)
 
+[Link to paper](https://papers.ssrn.com/abstract=3699712)
 
 Working Papers
 =======

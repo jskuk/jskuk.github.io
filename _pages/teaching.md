@@ -18,6 +18,16 @@ author_profile: true
 
 # Instructor of Record
 
+## University of Oklahoma
+
+Capstone in Political Science (Fall 2020)
+=====
+
+The Oklahoma City Exit Poll (Fall 2020)
+=====
+
+## Washington University in St. Louis
+
 Statistics for Sociology (Fall 2019)
 ======
 Introduction to descriptive and inferential statistical techniques used in sociological research. Topics addressed include probability distributions, data presentation and visualization, confidence intervals, hypothesis testing, and linear regression. Applications of statistical analysis drawn from sociological research and other social science data sources, such as polling and economic data. Students will use statistical software *R* to complete assignments.

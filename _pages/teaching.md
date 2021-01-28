@@ -18,7 +18,11 @@ author_profile: true
 
 # Instructor of Record
 
-## University of Oklahoma
+# University of Oklahoma
+
+PSC 2013. Introduction to Political Analysis (Spring 2021)
+=====
+Scientific method and the variety of approaches to a science of politics; problems of research design; methods and techniques of systematic political inquiry.
 
 Capstone in Political Science (Fall 2020)
 =====

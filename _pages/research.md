@@ -22,31 +22,48 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-======
+## Partisan Control and Gender Inequality
+
+- **John Kuk** and Zoltan Hajnal. "Democratic Control Reduces Gender Inequality" *Legislative Studies Quarterly* 46.1 (2021)
+
+[Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12316)
+
+
+## Voting Rights: Election Laws and Racial and Ethnic Minorities
+
 Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter ID Laws Disproportionately Burden Minorities.” *The Journal of Politics* 80.3 (2018): 1052–1059
 
 [Link to paper](https://www.journals.uchicago.edu/doi/abs/10.1086/696617)
-
-**John Kuk**, Deborah Seligsohn, and Jack Jiakun Zhang. “The Effect of Rising Import Competition on Congressional Voting Towards China." *Journal of Contemporary China* 27.109 (2018): 103–119
-
-[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
 
 **John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1773280)
 
-Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. Forthcoming. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
+## Housing Inequality
+
+Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. 2021. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10511482.2019.1684336)
 
+**Kuk, John**, Ariela Schachter, Jacob William Faber, and Max Besbris. "The COVID-19 Pandemic and the Rental Market: Evidence From Craigslist." *American Behavioral Scientist* (2021)
 
-**John Kuk** and Zoltan Hajnal, ["Democratic Party Control Reduces Gender Inequality" **Accepted** at *Legislative Studies Quarterly*](https://jskuk.github.io/files/Democratic_Party_Control_Reduces_Gender_Inequality.pdf)
+[Link to paper](https://journals.sagepub.com/doi/full/10.1177/00027642211003149)
 
-[Link to paper](https://papers.ssrn.com/abstract=3699712)
+Besbris, Max, Ariela Schachter, and **John Kuk**. "The unequal availability of rental housing information across neighborhoods." *Demography* 58.4 (2021): 1197-1221.
 
-Working Papers
-=======
+[Link to paper(https://read.dukeupress.edu/demography/article/58/4/1197/173903/The-Unequal-Availability-of-Rental-Housing]
+
+
+
+## Trade Shock and Congress
+
+- **John Kuk**, Deborah Seligsohn, and Jack Jiakun Zhang. “The Effect of Rising Import Competition on Congressional Voting Towards China." *Journal of Contemporary China* 27.109 (2018): 103–119
+
+[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
+
+- **John Kuk**, Deborah Seligsohn and Jiakun Jack Zhang "The Partisan Divide in U.S. Congressional Communications after the China Shock" *(Revised and Resubmitted)*
+  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
+
 
 ## Politics of Inequality 
 
@@ -79,70 +96,7 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 </details>
 
 
-## Gender Inequality
-- "Parties, State Legislatures, and Gender Inequality" with Zoltan Hajnal **Accepted** at *Legislative Studies Quarterly*
-<details><summary>Abstract</summary>
-<p>
-Women earn less than men who work in the same job with the same level of experience.  We know much about this gender wage gap but little about its political or partisan sources.  In this article, we examine the effects of party control of state government on gender inequality in income, wages, unemployment, and poverty. Employing both a regression discontinuity design and a dynamic difference-in-difference analysis, we find that electing a Democratic majority to the state house leads to substantial improvement in women’s incomes, wages, and unemployment relative to men – especially in recent years.  We also show that policy shifts could be driving that process. Democratic control leads to significantly more liberal policies on women’s rights and abortion.  We find, however, fewer clear effects on poverty and less robust results for partisan control of the governor’s office or the state senate. Parties and politics matter, but not always. 
-</p>
-</details>
-
-
-
-## Voting Rights
-- "A Disproportionate Burden: Strict Voter Identification Laws and Turnout" with Zoltan Hajnal and Nazita Lajevardi
-
-<details><summary>Abstract</summary>
-<p>
-Critics of strict photo identification laws claim that they impose a disproportionate burden on minority voters.  Yet, empirical studies assessing the impact of these laws on minority turnout have reached decidedly mixed results. This article offers a more rigorous test that will help advance the empirical literature and contribute to the legal debate in three ways: we focus on recent elections with a broad set of strict photo ID laws in place, rely on official turnout data rather than surveys, and employ a research design that assesses change over time using a difference-in-difference approach to alleviate the inference problems that plague most existing studies. We use aggregate county turnout data from 2012 to 2016 and find that the racial gap in turnout between more diverse and less diverse counties grew more in states enacting new strict photo ID laws than it did elsewhere.  Strict voter ID laws appear to discriminate.   
-</p>
-</details>
-
-
-- "The Disparate Rejection Rate of Voter Registration Applications" with Mitch Downey and Nazita Lajevardi (work in progress)
-
-
-## Urban Inequality
-
-- "The Geography of Information: Inequalities in Online Advertisements for Rental Housing" with Ariela Schachter and Max Besbris
-
-<details><summary>Abstract</summary>
-<p>
-More urban residents find their housing through online search tools than any other source and recent research has theorized the potential for online information to transform and equalize the housing search process. Yet little work has examined the quantity and quality of housing information available online. Using a corpus of millions of Craigslist advertisements for rental housing we examine whether housing search websites equalize access to information across neighborhoods. We find that, akin to other off-line information sources, housing websites present segmented and segregated information that tracks with other forms of socio-spatial inequality. Our findings have implications for understanding the structure of the rental housing market as well as the housing search process, and for theorizing how tenants form expectations about neighborhoods and landlords.
-</p>
-</details>
-
-- "Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?" with Geoff Boeing, Max Besbris, and Ariela Schachter at *Housing Policy Debate*
-
-<details><summary>Abstract</summary>
-<p>
-Housing scholars stress the importance of the information environment in shaping housing search behavior and outcomes. Rental listings have increasingly moved online over the past two decades and, in turn, online platforms like Craigslist are now central to the search process. Do these technology platforms serve as information equalizers or do they reflect traditional information inequalities that correlate with neighborhood sociodemographic characteristics? We synthesize and extend analyses of millions of US Craigslist rental listings and find they supply significantly different volume, quality, and types of information about different communities. Technology platforms have the potential to broaden, diversify, and equalize housing search information, but they rely on landlord behavior and, in turn, likely will not reach this potential without a significant redesign or policy intervention. Smart cities advocates hoping to build better cities through technology must critically interrogate big data for systematic biases. 
-</p>
-</details>
-
-- "The Effect of Homicide on Local Rents" with Jacob Faber, Ariela Schachter and Max Besbris (work in progress)
-
-<details><summary>Abstract</summary>
-<p>
-The collateral effects of homicide--that is, tolls on individuals and communities experiencing homicides in addition to loss of life—are numerous. While previous work has documented impacts on children and intergenerational mobility, we explore the effects of violent crime on a different economic outcome. Specifically, we use a unique geocoded and timestamped data set of advertisements for rental housing to examine the effect of neighborhood homicides on local rent prices. Using a regression discontinuity approach, we find that homicide decreases the listed price of nearby rental housing. Homicide reverberates throughout communities, affecting various aspects of individual and collective experience. Additionally, since homicides, and crime more generally, are geographically concentrated, understanding their wide-ranging effects helps explain broader, systemic differences across neighborhoods and how individual residents' lives--including their economic conditions--are shaped by their geographic contexts.
-</p>
-</details>
-
-- "The Distribution of Fair Market Rent Housing in the Metropolitan United States" with Ariela Schachter and Max Besbris (work in progress)
-
-
-## Trade Shock and Congress
-
-- "The Partisan Divide in U.S. Congressional Communications after the China Shock" with Deborah Seligsohn and Jiakun Jack Zhang *(Under Review)*
-  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
-
-
-
-
-
 
 ## Political Communication and Text Analysis
-
-- "Constituent Communications in a New Technological Era: Congressional E-Newsletters" with Nazita Lajevardi 
 
 - "North Korean Elites and Their Propaganda Strategy: Analyzing Korean Central News Agency Text Data" with Inbok Rhee 

@@ -22,7 +22,10 @@ author_profile: true
 
 ### Racial, Ethnic, and Class Inequality and Political Behavior (Spring 2022)
 
+This graduate seminar surveys research problems in the study of inequality and American politi- cal behavior through the lenses of race, ethnicity, and class. In this course, students will critically evaluate a combination of seminal research in the field and cutting-edge work conducted recently that responds to empirical and theoretical gaps left behind by the classics. Students will use the literature, as well as their own novel research ideas, to answer questions that fundamentally shape how we think about American inequality. These questions include, but are not limited to: How do social identities including race, ethnicity, and class structure our political preferences? What role do self-interest and group interest play in voting? Why hasn’t American democracy slowed rising inequality? How does racial and economic inequality affect political participation, preferences, attitudes, and vote choice? The seminar is intended for political science Ph.D. students and advanced undergraudate students but may be relevant for students in other disciplines as well.
+
 [Syllabus](http://jskuk.github.io/files/syllabus-psc-5400-spring-2022.pdf)
+
 
 
 ### Capstone in Political Science (Fall 2020, Spring 2022)

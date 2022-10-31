@@ -34,6 +34,8 @@ This graduate seminar surveys research problems in the study of inequality and A
 
 ### The Oklahoma City Exit Poll (Fall 2020, Fall 2022)
 
+This course will train students as researchers to design and field a national poll about the 2022 midterm election. It will also engage on topics such as how to conduct community-engaged research at the local level and provide instruction on how to design and perform a social science experiment. After learning how to conduct research and collect original data, students will learn how to analyze and present these data for a mainstream audience. 
+
 
 
 ### PSC 2013. Introduction to Political Analysis (Spring 2021, Fall 2021)

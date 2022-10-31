@@ -99,7 +99,9 @@ What happens to voters’ hearts and minds when the reality of the American Drea
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
 
-- **John Kuk**, Deborah Seligsohn and Jiakun Jack Zhang "The Partisan Divide in U.S. Congressional Communications after the China Shock" *(Revised and Resubmitted)*
+- **John Kuk**, Deborah Seligsohn and Jiakun Jack Zhang "The Partisan Divide in U.S. Congressional Communications after the China Shock" *Economics and Politics* 34.3 (2022): 494-526.
+
+[Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecpo.12207)
   - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
 
 

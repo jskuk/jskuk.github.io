@@ -22,22 +22,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Partisan Control and Gender Inequality
-
-- **John Kuk** and Zoltan Hajnal. "Democratic Control Reduces Gender Inequality" *Legislative Studies Quarterly* 46.1 (2021)
-
-[Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12316)
-
-
-## Voting Rights: Election Laws and Racial and Ethnic Minorities
-
-Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter ID Laws Disproportionately Burden Minorities.” *The Journal of Politics* 80.3 (2018): 1052–1059
-
-[Link to paper](https://www.journals.uchicago.edu/doi/abs/10.1086/696617)
-
-**John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
-
-[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1773280)
 
 ## Housing Inequality
 
@@ -51,22 +35,34 @@ Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. 2021. “Housing 
 
 Besbris, Max, Ariela Schachter, and **John Kuk**. "The unequal availability of rental housing information across neighborhoods." *Demography* 58.4 (2021): 1197-1221.
 
-[Link to paper(https://read.dukeupress.edu/demography/article/58/4/1197/173903/The-Unequal-Availability-of-Rental-Housing]
+[Link to paper](https://read.dukeupress.edu/demography/article/58/4/1197/173903/The-Unequal-Availability-of-Rental-Housing)
+
+Max Besbris, **John Kuk**, Ann Owens, and Ariela Schachter. "Predatory Inclusion in the Market for Rental Housing: A Multicity Empirical Test." *Socius* (2022)
+
+[Link to paper](https://journals.sagepub.com/doi/full/10.1177/23780231221079001)
 
 
+## State Policy and Inequality
 
-## Trade Shock and Congress
+### Partisan Control and Gender Inequality
 
-- **John Kuk**, Deborah Seligsohn, and Jack Jiakun Zhang. “The Effect of Rising Import Competition on Congressional Voting Towards China." *Journal of Contemporary China* 27.109 (2018): 103–119
+- **John Kuk** and Zoltan Hajnal. "Democratic Control Reduces Gender Inequality" *Legislative Studies Quarterly* 46.1 (2021)
 
-[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
+[Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12316)
 
-- **John Kuk**, Deborah Seligsohn and Jiakun Jack Zhang "The Partisan Divide in U.S. Congressional Communications after the China Shock" *(Revised and Resubmitted)*
-  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
+
+### Voting Rights: Election Laws and Racial and Ethnic Minorities
+
+Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter ID Laws Disproportionately Burden Minorities.” *The Journal of Politics* 80.3 (2018): 1052–1059
+
+[Link to paper](https://www.journals.uchicago.edu/doi/abs/10.1086/696617)
+
+**John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
+
+[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1773280)
 
 
 ## Politics of Inequality 
-
 
 - "The Effect of Economic Distress on Racial Attitudes"
 
@@ -94,6 +90,19 @@ Have voters become polarized as income inequality has risen? To better understan
 What happens to voters’ hearts and minds when the reality of the American Dream is shifting? The United States has long been called the “Land of Opportunity” with its high levels of social mobility long considered to be the bedrock of American exceptionalism. However, recent research on intergenerational mobility has found large geographical differences within the United States. In this article, I develop a theory explaining why the level of intergenerational mobility in voters’ neighborhoods is correlated with voting behavior. I show that Census tract level-measured mobility is positively correlated with Republican vote share and the individual probability of voting Republican. This article also provides an explanation why poor voters support Republican candidates. Low-income voters vote Republican in the presence of the prospect that hard work will offer them an opportunity to succeed. Low-income voters’ likelihood of voting Republican is more strongly correlated with intergenerational mobility than middle- and high-income voters.
  </p>
 </details>
+
+
+
+## Trade Shock and Congress
+
+- **John Kuk**, Deborah Seligsohn, and Jack Jiakun Zhang. “The Effect of Rising Import Competition on Congressional Voting Towards China." *Journal of Contemporary China* 27.109 (2018): 103–119
+
+[Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10670564.2017.1363024)
+
+- **John Kuk**, Deborah Seligsohn and Jiakun Jack Zhang "The Partisan Divide in U.S. Congressional Communications after the China Shock" *(Revised and Resubmitted)*
+  - Link to [Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/07/why-republicans-dont-push-back-on-trumps-china-tariffs-in-one-map/?utm_term=.381c8ba32608)
+
+
 
 
 

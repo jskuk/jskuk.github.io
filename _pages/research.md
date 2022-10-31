@@ -25,19 +25,19 @@ author_profile: true
 
 ## Housing Inequality
 
-Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. 2021. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
+- Geoff Boeing, Max Besbris, Ariela Schachter, and **John Kuk**. 2021. “Housing Search in the Age of Big Data: Smarter Cities or the Same Old Blind Spots?” *Housing Policy Debate*.
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/10511482.2019.1684336)
 
-**Kuk, John**, Ariela Schachter, Jacob William Faber, and Max Besbris. "The COVID-19 Pandemic and the Rental Market: Evidence From Craigslist." *American Behavioral Scientist* (2021)
+- **Kuk, John**, Ariela Schachter, Jacob William Faber, and Max Besbris. "The COVID-19 Pandemic and the Rental Market: Evidence From Craigslist." *American Behavioral Scientist* (2021)
 
 [Link to paper](https://journals.sagepub.com/doi/full/10.1177/00027642211003149)
 
-Besbris, Max, Ariela Schachter, and **John Kuk**. "The unequal availability of rental housing information across neighborhoods." *Demography* 58.4 (2021): 1197-1221.
+- Besbris, Max, Ariela Schachter, and **John Kuk**. "The unequal availability of rental housing information across neighborhoods." *Demography* 58.4 (2021): 1197-1221.
 
 [Link to paper](https://read.dukeupress.edu/demography/article/58/4/1197/173903/The-Unequal-Availability-of-Rental-Housing)
 
-Max Besbris, **John Kuk**, Ann Owens, and Ariela Schachter. "Predatory Inclusion in the Market for Rental Housing: A Multicity Empirical Test." *Socius* (2022)
+- Max Besbris, **John Kuk**, Ann Owens, and Ariela Schachter. "Predatory Inclusion in the Market for Rental Housing: A Multicity Empirical Test." *Socius* (2022)
 
 [Link to paper](https://journals.sagepub.com/doi/full/10.1177/23780231221079001)
 
@@ -53,11 +53,11 @@ Max Besbris, **John Kuk**, Ann Owens, and Ariela Schachter. "Predatory Inclusion
 
 ### Voting Rights: Election Laws and Racial and Ethnic Minorities
 
-Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter ID Laws Disproportionately Burden Minorities.” *The Journal of Politics* 80.3 (2018): 1052–1059
+- Zoltan Hajnal, **John Kuk**, and Nazita Lajevardi. “We All Agree: Strict Voter ID Laws Disproportionately Burden Minorities.” *The Journal of Politics* 80.3 (2018): 1052–1059
 
 [Link to paper](https://www.journals.uchicago.edu/doi/abs/10.1086/696617)
 
-**John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
+- **John Kuk**, Zoltan Hajnal, and Nazita Lajevardi. Forthcoming. “A Disproportionate Burden: Strict Voter Identification Laws and Turnout.” *Politics, Groups and Identities*.
 
 [Link to paper](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1773280)
 

@@ -19,12 +19,10 @@ redirect_from:
 
 {% include base_path %}
 
-jskuk [at] ou [dot] edu
+jskuk [at] msu [dot] edu
 
 **Mailing Address**
 ========
-455 W. Lindsey St.
+368 Farm Lane
 
-Dale Hall Tower, Room 205 
-
-Norman, OK 73019
+East Lansing MI 48823

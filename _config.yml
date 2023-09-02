@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "John Kuk"
   avatar           : "jskuk.png"
-  bio              : "Assistant Professor at OU. Inequality and Identity / Computational Social Science"
-  location         : "Norman, OK"
-  employer         : "University of Oklahoma"
+  bio              : "Assistant Professor at MSU. Inequality and Identity / Public Policy and Inequality"
+  location         : "East Lansing, MI"
+  employer         : "Michigan State University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=idkH9OUAAAAJ"
-  email            : "jskuk@ou.edu"
+  email            : "jskuk@msu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ithink02"
+  twitter          : "john_s_kuk"
   vine             :
   weibo            :
   xing             :
